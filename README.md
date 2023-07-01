@@ -12,19 +12,11 @@
 
 ![angular-shopping](https://github.com/LucBecker/shopping-app/assets/108952468/752bd7c0-036d-4258-ba8a-be1d13044eab)
 
+![angular-shopping2](https://github.com/LucBecker/shopping-app/assets/108952468/fed0ddc5-53c9-4a53-9736-650954e7d315)
+
+
 ### ✨ [Demo](https://shopping-app-lucbecker.vercel.app/products)
 
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
 
 ## Author
 👤 **Lucas Becker**
